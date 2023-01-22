@@ -1,4 +1,4 @@
-                                                    configuration_server_service
+                                           configuration_server_service
 1)About the project.
 
 This is a Spring Cloud Сonfig microservice, it is a central service for configuration for all other services in the system.
